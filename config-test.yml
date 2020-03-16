@@ -1,2 +1,2 @@
 config:
-  info: master branch, spring cloud config test, profile test
+  info: master branch, spring cloud config test, profile test, version=1
